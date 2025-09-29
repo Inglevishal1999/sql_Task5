@@ -1,7 +1,5 @@
-# sql_Task5
-Sql Task No: 5
+# sql_Task5 : SQL Joins (Inner, Left, Right, Full)
 
-#  SQL Joins (Inner, Left, Right, Full)
 ## Objective
 
 This task focuses on exploring different types of SQL JOINs to combine information from related tables. The aim is to understand how each join type affects the final result set.
